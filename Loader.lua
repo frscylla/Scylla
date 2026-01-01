@@ -39,7 +39,6 @@ local GAME_SCRIPTS = {
 
 local OVERRIDES = {
     [8075399143] = "38bc18fab08ad4249ddfb77f69dbff8d",
-	[89413197677760] = "9c30ffc7ec5776d9e1149c6e4ff80b12"
 }
 
 local function n()
