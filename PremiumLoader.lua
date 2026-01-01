@@ -35,9 +35,7 @@ local GAME_SCRIPTS = {
     GAG = "4f6c35e87cff68d943ba48699e3b9b02",
 }
 
-local OVERRIDES = {
-    [89413197677760] = "389b3437dc595a4d402c8992cc6bb53d",
-}
+local OVERRIDES = {}
 
 local function nga()
     if OVERRIDES[game.PlaceId] then
